@@ -6,7 +6,7 @@ Solution Architect and Software Engineer
 
 I've been creating a software for more than 20 years. My current technical stack is Java, Spring Boot, Quarkus, Python, Flask, REST API, Web Services, PostgreSQL, Redis, Kafka, RabbitMQ, Kubernetes. I'm learning front-end development with JavaScript and Svelte
 
-*   ✉️  You can contact me at [legkodymov@outlook.com](mailto:legkodymov@outlook.com) and Telegram [@s_legkodymov](https://t.me/s_legkodymov)
+*   ✉️  You can contact me at [rutven@gmail.com](mailto:rutven@gmail.com) and Telegram [@s_legkodymov](https://t.me/s_legkodymov)
 *   🧠  I'm learning Svelte, Supabase
 
 ### Skills 
