@@ -6,8 +6,8 @@ Solution Architect and Software Engineer
 
 I've been creating software for more than 20 years. My current technical stack is Java, Spring Boot, Quarkus, Python, Flask, REST API, Web Services, PostgreSQL, Redis, Kafka, RabbitMQ, and Kubernetes. I'm learning front-end development with JavaScript and Nuxt
 
-*   ✉️  You can contact me at [rutven@gmail.com](mailto:rutven@gmail.com) and Telegram [@s_legkodymov](https://t.me/s_legkodymov)
-*   🧠  I'm learning Nuxt, Telegram bots and mini-apps
+*   ✉️  You can contact me at [legkodymov@outlook.com](mailto:legkodymov@outlook.com) and Telegram [@s_legkodymov](https://t.me/s_legkodymov)
+*   🧠  I'm learning Nuxt, Telegram bots, and mini-apps
 
 ## Languages and Tools: 
 <p align="left">
@@ -32,8 +32,6 @@ I've been creating software for more than 20 years. My current technical stack i
 <a href="https://www.github.com/rutven" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
 <a href="https://www.linkedin.com/in/sergey-legkodymov-17bb309" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
-<a href="https://www.twitter.com/rutven" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
 </p>
 
