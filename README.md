@@ -9,7 +9,8 @@ breaking things in Kubernetes.
 
 Current stack: Java 25, Kotlin, Spring Boot, Kafka, RabbitMQ, Kubernetes, PostgreSQL, Python
 
-* ✉️ legkodymov@outlook.com · Telegram [@s_legkodymov](https://t.me/s_legkodymov)
+* ✉️ legkodymov@outlook.com
+* Telegram [@s_legkodymov](https://t.me/s_legkodymov)
 * 💼 [LinkedIn](https://www.linkedin.com/in/sergey-legkodymov)
 * 🌍 Open to remote and EU-based engagements
 * 🤖 Currently exploring AI agents — still figuring out what they're good at
